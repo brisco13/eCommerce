@@ -26,6 +26,9 @@ You can launch the command line application after running an "npm install" and t
 
 Below is a demo of the various calls through Insomnia.
 
+![ecommerce_gif](https://user-images.githubusercontent.com/103338620/182008716-23b962c3-e58d-4709-aeb4-6cdc82253ef3.gif)
+
+
 ## Contact Me:
 
 Please feel free to reach out to me here on github!
